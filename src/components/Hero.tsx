@@ -124,7 +124,7 @@ const Hero: React.FC = () => {
                 <div className="w-80 h-80 md:w-96 md:h-96 rounded-full bg-gradient-to-br from-blue-400 via-purple-500 to-indigo-600 p-1 shadow-2xl relative z-10 animate-pulse-subtle">
                   <div className="w-full h-full rounded-full bg-gray-300 dark:bg-gray-700 flex items-center justify-center overflow-hidden">
                     <img
-                      src="/portfolio/me.jpeg"
+                      src="/me.jpeg"
                       alt="Sarfaraz Shajahan - Professional headshot"
                       className="w-full h-full object-cover hover:scale-110 transition-transform duration-700"
                     />

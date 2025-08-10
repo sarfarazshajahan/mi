@@ -15,7 +15,7 @@ const SEOHead: React.FC<SEOHeadProps> = ({
   description = "Professional portfolio of Sarfaraz Shajahan, a data analytics expert with 17+ years experience in business intelligence, SAP, Power BI, and enterprise systems. Currently serving as Senior Purchase Admin Coordinator.",
   keywords = "Data Analytics, Business Intelligence, Power BI, SAP, Oracle EBS, Data Analysis, Business Analyst, Purchase Admin, Supply Chain, Saudi Arabia",
   image = "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1200",
-  url = "https://yourusername.github.io/portfolio/",
+  url = "https://sarfarazshajahan.github.io/",
   type = "website"
 }) => {
   return (
